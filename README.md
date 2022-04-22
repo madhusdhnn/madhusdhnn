@@ -4,7 +4,7 @@ Hi 👋 My name is Madhusudhanan
 Full Stack Developer
 --------------------
 
-I've been working as a Full Stack Developer for 4 years and I have built many full-stack web applications, microservices, REST APIs, and GraphQL services. My core experience is on developing web and cloud-native applications using Spring Boot & Framework, React JS and Node JS. Apart from this, I had worked with other programming languages like Python and GoLang. I'm a mentor who guides junior developers in currently working organization. Lately, my focus is towards becoming a Technical Architect. So, I just got started to learn AWS services for certification. In my free time, I blog about tech on Medium.
+I've been working as a Full Stack Developer for 4 years and I have built many full-stack web applications, microservices, REST APIs, and GraphQL services. My core experience is on developing web and cloud-native applications using Spring Boot & Framework, React JS and Node JS. Apart from this, I had worked with other programming languages like Python and GoLang. I'm a mentor who guides junior developers in currently working organization. Lately, my interest is on diverted towards becoming a Technical Architect. So, I just got started to learn AWS services for certification. In my free time, I blog about tech on Medium.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [madhu.padhmanaban298@gmail.com](mailto:madhu.padhmanaban298@gmail.com)
