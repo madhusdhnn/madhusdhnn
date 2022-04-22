@@ -4,7 +4,7 @@ Hi 👋 My name is Madhusudhanan
 Full Stack Developer
 --------------------
 
-I've been working with variety of web technologies to build full-stack web applications, microservices, and REST APIs, and GraphQL. My core experience is on developing applications using Java based technologies like Spring Boot & Framework, React JS and Node JS. Apart from this, I've had with other programming languages like Python. I'm a mentor who guides junior developers in currently working organization. Currently my focus is towards becoming a Technical Architect. So, I started to learn AWS services for certifications. In my free time, I blog about tech on Medium
+I've been in Software for 4 years and I have built full-stack web applications, microservices, REST APIs, and GraphQL services. My core experience is on developing web and cloud-native applications using Spring Boot & Framework, React JS and Node JS. Apart from this, I had worked with other programming languages like Python. I'm a mentor who guides junior developers in currently working organization. Lately, my focus is towards becoming a Technical Architect. So, I just got started to learn AWS services for certification. In my free time, I blog about tech on Medium.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [madhu.padhmanaban298@gmail.com](mailto:madhu.padhmanaban298@gmail.com)
@@ -33,4 +33,4 @@ I've been working with variety of web technologies to build full-stack web appli
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/madhusdhnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/madhusdhnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@madhusdhnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/6487148/the-tech-maddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/madhusdhnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> \<a href="https://www.stackoverflow.com/users/6487148/the-tech-maddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
