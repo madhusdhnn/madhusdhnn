@@ -8,7 +8,6 @@ I've been in Software for 4 years and I have built full-stack web applications, 
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [madhu.padhmanaban298@gmail.com](mailto:madhu.padhmanaban298@gmail.com)
-* 🧠  I'm learning AWS services for the AWS Solutions Architect (Associate) exam
 
 ### Skills
 
