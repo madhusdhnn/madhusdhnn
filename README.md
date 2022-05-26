@@ -4,7 +4,7 @@ Hi 👋 My name is Madhusudhanan
 Full Stack Developer
 --------------------
 
-I've been working as a Full Stack Developer for about 4 years and I have ample amout of experience in developing many full-stack web applications, microservices that are based on both REST and GraphQL, using different tech stacks. My core experience is on developing web and cloud-native applications with AWS Cloud. I'm a mentor in currently working organization. In my free time, I blog about tech on Medium and watch web series.
+I've been working as a Full Stack Developer for about 4 years and I have ample amount of experience in developing many full-stack web applications, microservices that are based on both REST and GraphQL, using different tech stacks. My core experience is on developing web and cloud-native applications with AWS Cloud. I'm a mentor in currently working organization. In my free time, I blog about tech on Medium and watch web series.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [madhu.padhmanaban298@gmail.com](mailto:madhu.padhmanaban298@gmail.com)
