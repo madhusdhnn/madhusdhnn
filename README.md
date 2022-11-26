@@ -7,7 +7,7 @@ Full Stack Developer
 I'm working as a Full Stack Developer for about 4 years and I have ample experience in developing many full-stack web applications, microservices that are based on both REST and GraphQL, using many tech stacks. My core experience is on developing web and cloud-native applications with AWS Services. I'm also mentor in currently working company. In my free time, I travel around many places.
 
 * 🌍  I'm based in Chennai, India
-* ✉️  You can contact me at [madhu.padhmanaban298@gmail.com](mailto:madhu.padhmanaban298@gmail.com)
+* ✉️  You can contact me at [madhusdhnn.ms@gmail.com](mailto:madhusdhnn.ms@gmail.com)
 * 🧠  I'm currently learning AWS services for Solution Architect (Associate level)
 
 ### Skills
