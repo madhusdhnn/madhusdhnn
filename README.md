@@ -4,7 +4,7 @@ Hi 👋 My name is Madhusudhanan
 Full Stack Developer
 --------------------
 
-I'm working as a Full Stack Developer for about 4 years and I have ample experience in developing many full-stack web applications, microservices that are based on both REST and GraphQL, using many tech stacks. My core experience is on developing web and cloud-native applications with AWS Services. I hold Associate level of AWS Solutions Architect certificate. In my free time, I travel around many places.
+I'm working as a Full Stack Developer for about 4 years and I have ample experience in developing many full-stack web applications, microservices that are based on both REST and GraphQL, using many tech stacks. My core experience is on developing web and cloud-native applications with AWS Services. I hold <a href="https://www.credly.com/badges/f39ca594-9ce2-42e5-a2e0-6176c59b48cd/public_url" target="_blank" rel="noreferrer">Associate level of AWS Solutions Architect</a> certificate. In my free time, I travel around many places.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [madhusdhnn.ms@gmail.com](mailto:madhusdhnn.ms@gmail.com)
