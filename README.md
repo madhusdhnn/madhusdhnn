@@ -8,7 +8,6 @@ I have been working as a Full Stack Developer for 5 years. I have ample experien
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * ✉️  You can contact me at [madhusdhnn.ms@gmail.com](mailto:madhusdhnn.ms@gmail.com)
-* 🧠  I'm learning AWS certification for Developer (Associate level)
 
 ### Skills
 
