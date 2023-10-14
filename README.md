@@ -4,7 +4,7 @@ Hi 👋 My name is Madhusudhanan
 Senior Software Engineer
 ------------------------
 
-I have been working as a Full Stack Developer for 5+ years. I have ample experience developing many full-stack web applications and microservices based on REST and GraphQL with different tech stacks. My core experience is in developing web and cloud-native applications with AWS Services. I'm more focused on the backend, although I have worked on front-end applications using React JS and Angular. My favourite tech stack is Java-based like Spring Boot. I hold <a href="https://www.credly.com/badges/f39ca594-9ce2-42e5-a2e0-6176c59b48cd/public_url" target="_blank" rel="noreferrer">Associate level of AWS Solutions Architect</a> certificate. I travel to many places in my free time and write blogs about tech on my Medium page.
+Senior Software Engineer with five years of hands-on experience in crafting everything from full-stack applications to microservices, and cloud-native apps using the AWS cloud. My go-to tech stack is Java-based, particularly Spring Boot, but I'm always up for a coding adventure with other languages too! I hold <a href="https://www.credly.com/badges/f39ca594-9ce2-42e5-a2e0-6176c59b48cd/public_url" target="_blank" rel="noreferrer">Associate level of AWS Solutions Architect</a> certificate. I travel to many places in my free time. I write about tech on my Medium page.
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * ✉️  You can contact me at [madhusdhnn.ms@gmail.com](mailto:madhusdhnn.ms@gmail.com)
