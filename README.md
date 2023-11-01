@@ -13,7 +13,7 @@ Senior Software Engineer with five years of hands-on experience in crafting ever
 
 * <b><span>Programming Languages:</span></b>&nbsp;<span>Java, Python</span>
 * <b><span>Web Development:</span></b>&nbsp;<span>HTML, CSS, JS/TS, React, Angular, Bootstrap, TailwindCSS</span>
-* <b><span>Backend:</span></b>&nbsp;<span>Spring Boot, Spring JPA, Spring Security, Hibernate, Node JS, Express JS, Sequelize, Apache Kafka, Docker, GraphQL</span>
+* <b><span>Backend:</span></b>&nbsp;<span>Spring Boot, Spring JPA, Spring Security, Hibernate, Node JS, Express JS, Sequelize, Docker, GraphQL</span>
 * <b><span>Database:</span></b>&nbsp;<span>PostgreSQL, MongoDB, DynamoDB</span>
 * <b><span>Certification:</span></b>&nbsp;<span>AWS Solutions Architect Associate</span>
 
