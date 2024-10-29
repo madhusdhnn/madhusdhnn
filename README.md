@@ -6,7 +6,7 @@ Senior Software Engineer
 
 Senior Software Engineer with five years of hands-on experience in crafting everything from full-stack applications to microservices, and cloud-native apps using the AWS cloud. My go-to tech stack is Java-based, particularly Spring Boot, but I'm always up for a coding adventure with other languages too! I travel to many places in my free time. I write about tech on my Medium page.
 
-* 🌍  I'm based in Chennai, Tamil Nadu, India
+* 🌍  I'm based in Bengaluru (Bangalore), Karnataka, India
 * ✉️  You can contact me at [madhusdhnn.ms@gmail.com](mailto:madhusdhnn.ms@gmail.com)
 
 ### Skills
